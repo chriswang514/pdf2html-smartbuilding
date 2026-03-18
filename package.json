@@ -1,5 +1,7 @@
 {
+  "type": "module",
   "dependencies": {
-    "pdf2html": "^4.4.0"
+    "nodejieba": "^3.5.7",
+    "mupdf": "^1.27.0"
   }
 }
