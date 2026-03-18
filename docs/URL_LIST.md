@@ -1,40 +1,40 @@
 # 🔗 SmartBuilding 完整網址列表
 
-*自動生成於：2026/3/18 下午5:46:44*
+*自動生成於：2026/3/18 下午5:53:22*
 
 ## 📁 111901
 
-### 113CIB318南港區玉成段303地號新建工程_評定書-1-12
+### 1-12
 
 | 類型 | 連結 |
 |------|------|
-| 🌐 永久網址 | [113CIB318南港區玉成段303地號新建工程_評定書-1-12](https://chriswang514.github.io/smartbuilding/111901/113CIB318南港區玉成段303地號新建工程_評定書-1-12.html) |
-| 📄 原始檔案 | [Raw](https://raw.githubusercontent.com/chriswang514/smartbuilding/main/docs/111901/113CIB318南港區玉成段303地號新建工程_評定書-1-12.html) |
-| 💻 GitHub | [View](https://github.com/chriswang514/smartbuilding/blob/main/docs/111901/113CIB318南港區玉成段303地號新建工程_評定書-1-12.html) |
+| 🌐 永久網址 | [1-12](https://chriswang514.github.io/smartbuilding/111901/1-12.html) |
+| 📄 原始檔案 | [Raw](https://raw.githubusercontent.com/chriswang514/smartbuilding/main/docs/111901/1-12.html) |
+| 💻 GitHub | [View](https://github.com/chriswang514/smartbuilding/blob/main/docs/111901/1-12.html) |
 
-### 113CIB318南港區玉成段303地號新建工程_評定書-13-32
-
-| 類型 | 連結 |
-|------|------|
-| 🌐 永久網址 | [113CIB318南港區玉成段303地號新建工程_評定書-13-32](https://chriswang514.github.io/smartbuilding/111901/113CIB318南港區玉成段303地號新建工程_評定書-13-32.html) |
-| 📄 原始檔案 | [Raw](https://raw.githubusercontent.com/chriswang514/smartbuilding/main/docs/111901/113CIB318南港區玉成段303地號新建工程_評定書-13-32.html) |
-| 💻 GitHub | [View](https://github.com/chriswang514/smartbuilding/blob/main/docs/111901/113CIB318南港區玉成段303地號新建工程_評定書-13-32.html) |
-
-### 113CIB318南港區玉成段303地號新建工程_評定書-33-69
+### 13-32
 
 | 類型 | 連結 |
 |------|------|
-| 🌐 永久網址 | [113CIB318南港區玉成段303地號新建工程_評定書-33-69](https://chriswang514.github.io/smartbuilding/111901/113CIB318南港區玉成段303地號新建工程_評定書-33-69.html) |
-| 📄 原始檔案 | [Raw](https://raw.githubusercontent.com/chriswang514/smartbuilding/main/docs/111901/113CIB318南港區玉成段303地號新建工程_評定書-33-69.html) |
-| 💻 GitHub | [View](https://github.com/chriswang514/smartbuilding/blob/main/docs/111901/113CIB318南港區玉成段303地號新建工程_評定書-33-69.html) |
+| 🌐 永久網址 | [13-32](https://chriswang514.github.io/smartbuilding/111901/13-32.html) |
+| 📄 原始檔案 | [Raw](https://raw.githubusercontent.com/chriswang514/smartbuilding/main/docs/111901/13-32.html) |
+| 💻 GitHub | [View](https://github.com/chriswang514/smartbuilding/blob/main/docs/111901/13-32.html) |
 
-### 113CIB318南港區玉成段303地號新建工程_評定書-70-107
+### 33-69
 
 | 類型 | 連結 |
 |------|------|
-| 🌐 永久網址 | [113CIB318南港區玉成段303地號新建工程_評定書-70-107](https://chriswang514.github.io/smartbuilding/111901/113CIB318南港區玉成段303地號新建工程_評定書-70-107.html) |
-| 📄 原始檔案 | [Raw](https://raw.githubusercontent.com/chriswang514/smartbuilding/main/docs/111901/113CIB318南港區玉成段303地號新建工程_評定書-70-107.html) |
-| 💻 GitHub | [View](https://github.com/chriswang514/smartbuilding/blob/main/docs/111901/113CIB318南港區玉成段303地號新建工程_評定書-70-107.html) |
+| 🌐 永久網址 | [33-69](https://chriswang514.github.io/smartbuilding/111901/33-69.html) |
+| 📄 原始檔案 | [Raw](https://raw.githubusercontent.com/chriswang514/smartbuilding/main/docs/111901/33-69.html) |
+| 💻 GitHub | [View](https://github.com/chriswang514/smartbuilding/blob/main/docs/111901/33-69.html) |
+
+### 70-107
+
+| 類型 | 連結 |
+|------|------|
+| 🌐 永久網址 | [70-107](https://chriswang514.github.io/smartbuilding/111901/70-107.html) |
+| 📄 原始檔案 | [Raw](https://raw.githubusercontent.com/chriswang514/smartbuilding/main/docs/111901/70-107.html) |
+| 💻 GitHub | [View](https://github.com/chriswang514/smartbuilding/blob/main/docs/111901/70-107.html) |
 
 ### index
 
@@ -56,35 +56,35 @@
 
 ## 🧪 TRIAL
 
-### link_0f8d581f079e0665
+### link_285098f847366694
 
 | 類型 | 連結 |
 |------|------|
-| 🌐 永久網址 | [link_0f8d581f079e0665](https://chriswang514.github.io/smartbuilding/trial/link_0f8d581f079e0665.html) |
-| 📄 原始檔案 | [Raw](https://raw.githubusercontent.com/chriswang514/smartbuilding/main/docs/trial/link_0f8d581f079e0665.html) |
-| 💻 GitHub | [View](https://github.com/chriswang514/smartbuilding/blob/main/docs/trial/link_0f8d581f079e0665.html) |
+| 🌐 永久網址 | [link_285098f847366694](https://chriswang514.github.io/smartbuilding/trial/link_285098f847366694.html) |
+| 📄 原始檔案 | [Raw](https://raw.githubusercontent.com/chriswang514/smartbuilding/main/docs/trial/link_285098f847366694.html) |
+| 💻 GitHub | [View](https://github.com/chriswang514/smartbuilding/blob/main/docs/trial/link_285098f847366694.html) |
 
-### link_1e145f6cbd12a8f5
-
-| 類型 | 連結 |
-|------|------|
-| 🌐 永久網址 | [link_1e145f6cbd12a8f5](https://chriswang514.github.io/smartbuilding/trial/link_1e145f6cbd12a8f5.html) |
-| 📄 原始檔案 | [Raw](https://raw.githubusercontent.com/chriswang514/smartbuilding/main/docs/trial/link_1e145f6cbd12a8f5.html) |
-| 💻 GitHub | [View](https://github.com/chriswang514/smartbuilding/blob/main/docs/trial/link_1e145f6cbd12a8f5.html) |
-
-### link_25a1c83417a27019
+### link_3ba22d8d65373c02
 
 | 類型 | 連結 |
 |------|------|
-| 🌐 永久網址 | [link_25a1c83417a27019](https://chriswang514.github.io/smartbuilding/trial/link_25a1c83417a27019.html) |
-| 📄 原始檔案 | [Raw](https://raw.githubusercontent.com/chriswang514/smartbuilding/main/docs/trial/link_25a1c83417a27019.html) |
-| 💻 GitHub | [View](https://github.com/chriswang514/smartbuilding/blob/main/docs/trial/link_25a1c83417a27019.html) |
+| 🌐 永久網址 | [link_3ba22d8d65373c02](https://chriswang514.github.io/smartbuilding/trial/link_3ba22d8d65373c02.html) |
+| 📄 原始檔案 | [Raw](https://raw.githubusercontent.com/chriswang514/smartbuilding/main/docs/trial/link_3ba22d8d65373c02.html) |
+| 💻 GitHub | [View](https://github.com/chriswang514/smartbuilding/blob/main/docs/trial/link_3ba22d8d65373c02.html) |
 
-### link_8aae573ee51ecb68
+### link_78bceeeb70088567
 
 | 類型 | 連結 |
 |------|------|
-| 🌐 永久網址 | [link_8aae573ee51ecb68](https://chriswang514.github.io/smartbuilding/trial/link_8aae573ee51ecb68.html) |
-| 📄 原始檔案 | [Raw](https://raw.githubusercontent.com/chriswang514/smartbuilding/main/docs/trial/link_8aae573ee51ecb68.html) |
-| 💻 GitHub | [View](https://github.com/chriswang514/smartbuilding/blob/main/docs/trial/link_8aae573ee51ecb68.html) |
+| 🌐 永久網址 | [link_78bceeeb70088567](https://chriswang514.github.io/smartbuilding/trial/link_78bceeeb70088567.html) |
+| 📄 原始檔案 | [Raw](https://raw.githubusercontent.com/chriswang514/smartbuilding/main/docs/trial/link_78bceeeb70088567.html) |
+| 💻 GitHub | [View](https://github.com/chriswang514/smartbuilding/blob/main/docs/trial/link_78bceeeb70088567.html) |
+
+### link_eaba91e9fb7ca986
+
+| 類型 | 連結 |
+|------|------|
+| 🌐 永久網址 | [link_eaba91e9fb7ca986](https://chriswang514.github.io/smartbuilding/trial/link_eaba91e9fb7ca986.html) |
+| 📄 原始檔案 | [Raw](https://raw.githubusercontent.com/chriswang514/smartbuilding/main/docs/trial/link_eaba91e9fb7ca986.html) |
+| 💻 GitHub | [View](https://github.com/chriswang514/smartbuilding/blob/main/docs/trial/link_eaba91e9fb7ca986.html) |
 
